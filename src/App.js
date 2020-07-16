@@ -1,6 +1,7 @@
 import React from 'react';
 import {ThemeProvider} from 'ustudio-ui/theme';
 import {Button, TextArea, Text} from 'ustudio-ui';
+
 import {JsonSchemaParser} from 'u-json-docs';
 
 import './App.css';
